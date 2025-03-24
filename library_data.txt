@@ -7,13 +7,6 @@
         "read": true
     },
     {
-        "title": "The Love Hypothesis",
-        "author": "Ali Hazelwood",
-        "year": 2021,
-        "genre": "romance",
-        "read": true
-    },
-    {
         "title": "Verity",
         "author": "Colleen Hoover",
         "year": 2018,
