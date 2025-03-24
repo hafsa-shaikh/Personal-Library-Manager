@@ -1,0 +1,44 @@
+[
+    {
+        "title": "The Love Hypothesis",
+        "author": "Ali Hazelwood",
+        "year": 2021,
+        "genre": "romance",
+        "read": true
+    },
+    {
+        "title": "The Love Hypothesis",
+        "author": "Ali Hazelwood",
+        "year": 2021,
+        "genre": "romance",
+        "read": true
+    },
+    {
+        "title": "Verity",
+        "author": "Colleen Hoover",
+        "year": 2018,
+        "genre": "Thriller",
+        "read": true
+    },
+    {
+        "title": "The Silent Paietent",
+        "author": "Alex Michaelides",
+        "year": 2019,
+        "genre": "Murder Mystery",
+        "read": true
+    },
+    {
+        "title": "Better Than the Movies",
+        "author": "Lynn Pianter",
+        "year": 2022,
+        "genre": "rom-com",
+        "read": false
+    },
+    {
+        "title": "A Little Life",
+        "author": "Hanya Yanagihara",
+        "year": 2017,
+        "genre": "Saddest book",
+        "read": true
+    }
+]
